@@ -1,2 +1,1 @@
-# leanda.io
-Leanda.io project
+# Leanda.io project
