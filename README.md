@@ -25,6 +25,20 @@ Leanda.io supports various formats and is able to convert between them seamlessl
 
 A machine learning (ML) framework is embedded into Leanda.io and can be used as an API, standalone tool or can be integrated in a new software as an autonomous module. Leanda.io provides a number of pipelines simplifying data science workflows used in research and drug discovery starting from data import and curation and finishing with the predictive models training, evaluation and application. Trained models can be shared with other users or made public.
 
-## Data curation and annotation
+## Data Curation and Annotation
 
 Leanda.io was designed to support multiple ways of data acquisition, conversion, real-time automated and manual data curation, annotation and analysis. The system can extract the metadata from the raw files automatically. In addition to automatic metadata extraction Leanda.io provides ways to add hierarchical categories to the data, tag, and to assign additional metadata types.
+
+## Run Locally
+
+The entire Leanda.io system conists of many infrastructure, monitoring and application services. The full system requires quite a lot of resources to run. Especially, the ML services are very resouce hungry.
+
+We have created a small lightweight distribution so that people can download and play locally.
+
+To start the system locally please follow these steps:
+
+* Clong <https://github.com/ArqiSoft/configuration> repository.
+* Go into `leanda-lite` folder.
+* Run `docker-compose up` command.
+
+All you need to install on your machine is the Docker engine. We recommend to allocate 6 GB RAM or more.
