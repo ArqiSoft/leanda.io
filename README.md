@@ -46,4 +46,4 @@ All you need to install on your machine is the Docker engine. We recommend to al
 
 After that you'll be able to login with developer/developer and start playing with the system:
 
-![alt text](https://github.com/arqisoft/leanda.io/blob/master/img/leanda-browse.png?raw=true)
+![Browse Files](https://github.com/arqisoft/leanda.io/blob/main/img/leanda-browse.png?raw=true)
