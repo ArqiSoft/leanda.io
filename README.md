@@ -40,5 +40,10 @@ To start the system locally please follow these steps:
 * Clone <https://github.com/ArqiSoft/configuration> repository.
 * Go into `leanda-lite` folder.
 * Run `docker-compose up` command.
+* Navigate to <http://localhost:5555/> in your browser.
 
-All you need to install on your machine is the Docker engine. We recommend to allocate 6 GB RAM or more.
+All you need to install on your machine is the Docker engine. We recommend to allocate 6 GB RAM or more for Docker.
+
+After that you'll be able to login with developer/developer and start playing with the system:
+
+![alt text](https://github.com/arqisoft/leanda.io/blob/master/img/leanda-browse.png?raw=true)
