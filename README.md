@@ -31,7 +31,7 @@ Leanda.io was designed to support multiple ways of data acquisition, conversion,
 
 ## Run Locally
 
-The entire Leanda.io system conists of many infrastructure, monitoring and application services. The full system requires quite a lot of resources to run. Especially, the ML services are very resource hungry.
+The entire Leanda.io system consists of many infrastructure, monitoring and application services. The full system requires quite a lot of resources to run. Especially, the ML services are very resource hungry.
 
 We have created a small lightweight distribution so that people can download and play locally.
 
